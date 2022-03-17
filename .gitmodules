@@ -1,12 +1,16 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/Exaverse/darkforest-client
+	branch = guide-1
 [submodule "eth"]
 	path = eth
 	url = https://github.com/Exaverse/darkforest-eth
+	branch = guide-1
 [submodule "circuits"]
 	path = circuits
 	url = https://github.com/Exaverse/darkforest-circuits
+	branch = guide-1
 [submodule "packages"]
 	path = packages
 	url = https://github.com/Exaverse/darkforest-packages
+	branch = guide-1
